@@ -46,6 +46,7 @@ In the directory documents are checklists and templates helping you to do your o
 * [Apptentive](http://www.apptentive.com)
 * [Appsfire App Booster SDK](http://dashboard.appsfire.com)
 
+# Feedback
 If you have a comment or recommendation, don't hesitate to file a pull request!
 
 #Copyright and license
