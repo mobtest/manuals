@@ -7,20 +7,22 @@
 ## Hardware
 Which of the following hardware models does the app support?
 
-1. iPhone 3g, iPhone 3gs, iPhone 4 (Retina), iPhone 4s, iPhone 5 (4-inch), iPhone 5s, iPhone 5c
-2. iPad, iPad 2, iPad 3 (alias new, Retina), iPad 4, iPad Mini (not Retina, smaller 7.9’’ screen), iPad mini retina, iPad Air
+1. iPhone 4 (Retina, 3.5 inch), iPhone 4s, iPhone 5 (4 inch), iPhone 5s, iPhone 5c, iPhone 6 (4.7 inch), iPhone 6+ (5.5 inch)
+2. iPad 2, iPad 3 (alias new, Retina), iPad 4, iPad Mini (not Retina, smaller 7.9’’ screen), iPad mini retina, iPad Air
 3. iPod Touch 4, iPod Touch 5 (4-inch Retina)
 
-You might consider iPhone 3G, 3GS and iPad obsolete.
+You might consider obsolete:
+1. iPhone 3G, 3GS, 4
+2. iPad 1.
+3. iPod Touch  1G, 2G, 3G, 4G
 
 ## Operating system
 Which of the following hardware models does the app support?
 
-1. iOS 5.x
-2. iOS 6.x
-3. iOS 7.x
+1. iOS 7.x
+2. iOS 8.x
 
-You might deem iOS 5.x obsolete, supporting the curent plus previous main release will in general give you 95%+ coverage.
+You might deem iOS 6.x obsolete, supporting the curent plus previous main release will in general give you 95%+ coverage.
 
 ## Device orientation and rotation
 1. Does the app support both landscape and portrait orientation?
